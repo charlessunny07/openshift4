@@ -1,5 +1,5 @@
 <?php
-$servername = "mysqlbackend;
+$servername = "mysqlbackend";
 $username = "root";
 $password = "123";
 $dbname = "cgi";
